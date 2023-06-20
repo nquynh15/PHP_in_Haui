@@ -1,0 +1,4 @@
+01|Nước uống|001|12|16000|coca.jpg
+02|Nước lọc|002|20|6000|water.png
+03|Nước uống|003|12|9000|pepsi.jpg
+04|Nước uống|004|25|13000|7up.jpg
